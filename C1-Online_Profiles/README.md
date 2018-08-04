@@ -13,6 +13,6 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Link to LinkedIn profile](https://www.linkedin.com/in/dereksanabria/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Link to Resume](Technical Resume.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.

@@ -14,6 +14,7 @@ For this assignment, you'll create some initial plans for your project.
 * [Home Page](wireframes/lfp_home.png)
 * [Profile Page](wireframes/lfp_profile.png)
 * [Inbox](wireframes/lfp_inbox.png)
+* [Message](wireframes/lfp_message.png)
 
 
 ### Project Tracker

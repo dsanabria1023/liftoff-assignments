@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Link to GitHub profile](https://github.com/dsanabria1023)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Link to LinkedIn profile](https://www.linkedin.com/in/dereksanabria/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
